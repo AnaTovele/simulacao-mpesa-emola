@@ -14,14 +14,14 @@ Este projecto nasceu da curiosidade em entender como funcionam os sistemas USSD 
 
 **M-Pesa (`*150#`)**
 - Transferência de dinheiro (M-Pesa para M-Pesa, sem taxas)
-- Levantamento via agente (com cálculo de taxas por escalão)
+- Levantamento via agente 
 - Xitique M-Pesa
 - Recargas, Voz e Dados
 - Minha Conta
 
 **E-mola (`*898#`)**
 - Transferência de dinheiro (E-mola para E-mola, sem taxas)
-- Levantamento via agente (com cálculo de taxas por escalão)
+- Levantamento via agente 
 - Xitique E-mola
 - Credelec
 - Minha Conta
